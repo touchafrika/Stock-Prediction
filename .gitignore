@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 bin/
 lib/
-*.cfg/
+pyvenv.cfg/*
+
 
